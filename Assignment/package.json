@@ -1,0 +1,14 @@
+{
+  "name": "myJason",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "app.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "elwira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
